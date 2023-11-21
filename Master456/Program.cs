@@ -7,7 +7,7 @@ namespace Master456
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.readasdsada
+            Console.ReadLine();
         }
     }
 }
